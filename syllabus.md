@@ -5,7 +5,7 @@
 **Instructors: Matt Ferland, William Goble, John MacCormick**
 
 
-_This syllabus subject to substantial change up until the first day of classes. After the first day of classes, any changes will be clearly noted and announced._
+_This syllabus is subject to substantial change up until the first day of classes. After the first day of classes, any changes will be clearly noted and announced._
 
 ## Learning goals
 
