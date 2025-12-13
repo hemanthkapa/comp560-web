@@ -5,3 +5,4 @@
 * [Onboarding activities](onboarding.md)
 * [Activity logs](activity-logs.md)
 * [Syllabus](syllabus.md)
+* [Literature](literature/literature.md)
