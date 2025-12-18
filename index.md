@@ -8,3 +8,4 @@
 * [Possible projects](possible-projects.md)
 * [Literature](literature/literature.md)
 * [Participants](participants.md)
+* [Github links](github-links.md)
